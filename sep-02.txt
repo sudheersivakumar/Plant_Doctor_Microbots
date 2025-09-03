@@ -3,4 +3,7 @@ Dataset columns and rows
 Moisture
 Temperature
 ph
-todo: should have to complete complete dataset by 4 sep 9pm
+todo 1(sep 2): should have to complete complete dataset by 4 sep 9pm.
+todo 1 done ✅
+todo 2(sep 3) Visual representation of the csv file
+
